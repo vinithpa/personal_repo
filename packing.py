@@ -8,81 +8,82 @@ summer = {
 
 	'change_daily': 
 	{
-		'briefs':1,
+		'briefs':0,
 		'undershirt':0
 	},
 
 	'change_every_other': 
 	{
-		'polo_shirt':1, 
+		'polo_shirt':0, 
 		'shorts':0,
-		'socks':1,
+		'socks':0,
 		'night_shirts':0, 
 		'athletic_shorts':0, 
-		'night_pants':1, 
-		'jeans/chinos':1, 
-		'swimwear':1, 
-		'sweater':1,
-		'athletic_shirts':1, 
+		'night_pants':0, 
+		'jeans/chinos':0, 
+		'swimwear':0, 
+		'sweater':0,
+		'athletic_shirts':0, 
 	},
 
-	# 'formal_wear':
-	# {
-	# 	'black_shoes':0,
-	# 	'suit':0,
-	# 	'suit_pant':0,
-	# 	'black_belt':0, 
-	# 	'dress_shirt':0,
-	# 	'kurta':0,
-	# 	'kurta_scarf':0,
-	# 	'kurta_sandals':0,
-	# 	'tie':0,
-	# 	'brown_belt':0, 
-
-	# }
+	'formal_wear':
+	{
+		'black_shoes':0,
+		'suit':0,
+		'suit_pant':0, 
+		'dress_shirt':0,
+		'kurta':0,
+		'kurta_scarf':0,
+		'kurta_sandals':0,
+		'tie':0, 
+	},
 
 	'toiletries': 
 	{
-		'toothbrush':1, 
-		'tongue':1, 
-		'deodorant':1, 
-		'soap':1, 
-		'loofah':1, 
-		'contacts/glasses':1, 
-		'toothpaste':1, 
-		'lotion/vaseline':1,
-		'balm':1
+		'toothbrush':0, 
+		'tongue':0, 
+		'deodorant':0, 
+		'soap':0, 
+		'loofah':0, 
+		'contacts/glasses':0, 
+		'toothpaste':0, 
+		'lotion/vaseline':0,
+		'balm':0
 	},
 
 	'accessories': 
 	{ 
-		'sunglasses':1,
-		'hat':1,
-		'watch':1,
+		'brown_belt':0,
+		'black_belt':0,
+		'sunglasses':0,
+		'hat':0,
+		'watch':0,
 		'lock':0,
 		'boat_shoes':0, 
 		'sandals':0, 
-		'umbrella':1, 
-		'laundry_bag':1, 
-		'sneakers':1, 
-		'jacket':1,
-		'gloves':1,
-		'winter_cap':1
+		'umbrella':0, 
+		'laundry_bag':0, 
+		'sneakers':0, 
+		'jacket':0,
+		'gloves':0,
+		'winter_cap':0,
+		'knapsack':0
 	},
 
 	'electronics': 
 	{
-		'headphones/earbuds':1,
+		'headphones/earbuds':0,
 		'phone_charger':1,
 		'laptop_charger':1,
-		'rechargeable_batteries':0
-	}
+		'rechargeable_batteries':0,
+		'car_charger':1
+	},
 
-	# 'documentation': 
-	# {
-	# 	'passport':0
-	# 	'global_entry':0,
-	# }	
+	'documentation': 
+	{
+		'passport':0,
+		'global_entry':0,
+	}	
 
 }
 
